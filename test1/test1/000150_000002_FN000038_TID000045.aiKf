@@ -1,0 +1,15 @@
+{
+	"AIKF" : 
+	[
+		{
+			"time_in" : 2520,
+			"time_out" : -40,
+			"type" : 0
+		},
+		{
+			"time_in" : 5960,
+			"time_out" : -40,
+			"type" : 0
+		}
+	]
+}
